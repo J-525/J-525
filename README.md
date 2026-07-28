@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Joseph
 
-<!--
-**J-525/J-525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & Linux enthusiast pursuing a B.Tech in Cyber Security.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux System Programming
+- eBPF
+- Kernel Development
+- Penetration Testing
+- IoT Security
+- Embedded Systems
+
+## Technologies
+
+Languages
+
+- C
+- Python
+- Java
+- Bash
+
+Tools
+
+- Linux
+- Docker
+- Git
+- Wireshark
+- Burp Suite
+- Nmap
+- GDB
+- QEMU
+
+## Current Project
+
+Adaptive Risk-Aware Linux Runtime Security Framework using eBPF.
+
+## Learning
+
+- Linux Kernel
+- eBPF
+- Rust
+- Kubernetes
+
+## Contact
+
+LinkedIn:
+Email:
