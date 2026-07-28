@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=89B4FA&center=true&vcenter=true&width=600&height=50&lines=Cybersecurity+%26+Linux+Enthusiast;eBPF+%26+Kernel+Development;B.Tech+in+Cyber+Security;IoT+Security+%26+Low-Level+Systems" alt="Typing SVG" />
   </a>
 
-  <h3>🛡️ Hi there, I'm Joseph V Cherish 👋</h3>
+  <h3> Hi there, I'm Joseph V Cherish (ᵔᗜᵔ)ﾉﾞ</h3>
 
   <p align="center">
     <b>B.Tech Cyber Security Student</b> • <b>Linux Kernel & eBPF Developer</b> • <b>System Security Researcher</b>
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 About Me
+### ⌯⌲ About Me
 
 ```sysinfo
 OS         : Linux
@@ -32,19 +32,19 @@ Focus      : eBPF Tracing, Linux Kernel Security & Low-Level Systems
 Hobbies    : Reverse Engineering, Kernel Hacking, IoT Hardware Security
 ```
 
-- ⚙️ **Focus Area:** Hardware reverse engineering, low-level system tooling, and kernel observability.
-- 🔬 **Current Focus:** Reverse engineering proprietary laptop hardware (Acer EC) and eBPF-based Linux runtime security.
-- 🛠️ **Hands-on Experience:** Firmware Analysis, Linux EC System Programming, Penetration Testing, IoT & Embedded Systems.
+- ⚙︎ **Focus Area:** Hardware reverse engineering, low-level system tooling, and kernel observability.
+- 🔍︎ **Current Focus:** Reverse engineering proprietary laptop hardware (Acer EC) and eBPF-based Linux runtime security.
+- </> **Hands-on Experience:** Firmware Analysis, Linux EC System Programming, Penetration Testing, IoT & Embedded Systems.
 
 ---
 
-### 🔥 Featured Project
+### ঌ Featured Project
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="100%">
-        <h3>⌨️ <a href="https://github.com/J-525/Acer-Aspire-A715-79G-KeyBoard">Acer Aspire A715-79G Keyboard RGB & Brightness Driver</a></h3>
+        <h3>⌨ <a href="https://github.com/J-525/Acer-Aspire-A715-79G-KeyBoard">Acer Aspire A715-79G Keyboard RGB & Brightness Driver</a></h3>
         <p>Reverse engineering Acer's proprietary keyboard lighting system to analyze firmware communication, write directly to Embedded Controller (EC) registers, map undocumented APIs, and achieve native Linux compatibility.</p>
         <p>
           <img src="https://img.shields.io/badge/Reverse_Engineering-Hardware_Hacking-red?style=flat-square&logo=linux&logoColor=white" />
@@ -59,10 +59,10 @@ Hobbies    : Reverse Engineering, Kernel Hacking, IoT Hardware Security
 
 ---
 
-### 💻 Tech Stack & Security Arsenal
+### 모 Tech Stack & Security Arsenal
 
 <details open>
-<summary><b>🛠️ Languages & Scripting</b></summary>
+<summary><b></> Languages & Scripting</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -73,7 +73,7 @@ Hobbies    : Reverse Engineering, Kernel Hacking, IoT Hardware Security
 </details>
 
 <details open>
-<summary><b>🐧 Kernel & Low-Level Systems</b></summary>
+<summary><b>(•⬭•) Kernel & Low-Level Systems</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/eBPF-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -84,7 +84,7 @@ Hobbies    : Reverse Engineering, Kernel Hacking, IoT Hardware Security
 </details>
 
 <details open>
-<summary><b>🔒 Security & Penetration Testing Tools</b></summary>
+<summary><b>ꗃ Security & Penetration Testing Tools</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -95,7 +95,7 @@ Hobbies    : Reverse Engineering, Kernel Hacking, IoT Hardware Security
 </details>
 
 <details open>
-<summary><b>☁️ DevOps & Environment</b></summary>
+<summary><b>☁︎⋅ DevOps & Environment</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -106,7 +106,7 @@ Hobbies    : Reverse Engineering, Kernel Hacking, IoT Hardware Security
 
 ---
 
-### 📊 GitHub Metrics & Activity
+### % GitHub Metrics & Activity
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J-525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
