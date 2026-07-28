@@ -32,9 +32,9 @@ Focus      : eBPF Tracing, Linux Kernel Security & Low-Level Systems
 Hobbies    : Reverse Engineering, Kernel Hacking, IoT Hardware Security
 ```
 
-- ⚙️ **Focus Area:** Building low-level security tooling and deep kernel observability.
-- 🔬 **Current Research:** Adaptive Risk-Aware Linux Runtime Security Framework leveraging **eBPF**.
-- 🛠️ **Hands-on Experience:** Linux System Programming, Penetration Testing, IoT & Embedded Systems Security.
+- ⚙️ **Focus Area:** Hardware reverse engineering, low-level system tooling, and kernel observability.
+- 🔬 **Current Focus:** Reverse engineering proprietary laptop hardware (Acer EC) and eBPF-based Linux runtime security.
+- 🛠️ **Hands-on Experience:** Firmware Analysis, Linux EC System Programming, Penetration Testing, IoT & Embedded Systems.
 
 ---
 
@@ -44,13 +44,13 @@ Hobbies    : Reverse Engineering, Kernel Hacking, IoT Hardware Security
   <table width="100%">
     <tr>
       <td width="100%">
-        <h3>🛡️ Adaptive Risk-Aware Linux Runtime Security Framework (eBPF)</h3>
-        <p>A high-performance runtime security engine that utilizes eBPF programs in the Linux kernel for real-time risk assessment, syscall tracing, and threat mitigation with zero runtime overhead.</p>
+        <h3>⌨️ <a href="https://github.com/J-525/Acer-Aspire-A715-79G-KeyBoard">Acer Aspire A715-79G Keyboard RGB & Brightness Driver</a></h3>
+        <p>Reverse engineering Acer's proprietary keyboard lighting system to analyze firmware communication, write directly to Embedded Controller (EC) registers, map undocumented APIs, and achieve native Linux compatibility.</p>
         <p>
-          <img src="https://img.shields.io/badge/eBPF-Kernel_Tracing-89b4fa?style=flat-square&logo=linux&logoColor=white" />
-          <img src="https://img.shields.io/badge/Language-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-          <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-          <img src="https://img.shields.io/badge/Domain-Cybersecurity-red?style=flat-square" />
+          <img src="https://img.shields.io/badge/Reverse_Engineering-Hardware_Hacking-red?style=flat-square&logo=linux&logoColor=white" />
+          <img src="https://img.shields.io/badge/Target-Embedded_Controller_(EC)-89b4fa?style=flat-square&logo=linux&logoColor=white" />
+          <img src="https://img.shields.io/badge/Platform-Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" />
+          <img src="https://img.shields.io/badge/Language-C_%2F_Bash-A8B9CC?style=flat-square&logo=gnu-bash&logoColor=white" />
         </p>
       </td>
     </tr>
