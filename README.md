@@ -39,10 +39,3 @@ Adaptive Risk-Aware Linux Runtime Security Framework using eBPF.
 
 - Linux Kernel
 - eBPF
-- Rust
-- Kubernetes
-
-## Contact
-
-LinkedIn:
-Email:
