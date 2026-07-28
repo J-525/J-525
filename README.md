@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=89B4FA&center=true&vcenter=true&width=600&height=50&lines=Cybersecurity+%26+Linux+Enthusiast;eBPF+%26+Kernel+Development;B.Tech+in+Cyber+Security;IoT+Security+%26+Low-Level+Systems" alt="Typing SVG" />
   </a>
 
-  <h3> Hi there, I'm Joseph V Cherish (ᵔᗜᵔ)ﾉﾞ</h3>
+  <h3> Hi there, I'm Joseph V Cherish (ᵔᗜᵔ˶)ﾉﾞ</h3>
 
   <p align="center">
     <b>B.Tech Cyber Security Student</b> • <b>Linux Kernel & eBPF Developer</b> • <b>System Security Researcher</b>
@@ -62,7 +62,7 @@ Hobbies    : Reverse Engineering, Kernel Hacking, IoT Hardware Security
 ### 모 Tech Stack & Security Arsenal
 
 <details open>
-<summary><b></> Languages & Scripting</b></summary>
+<summary><b>$_ Languages & Scripting</b></summary>
 <br/>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
