@@ -108,10 +108,7 @@ Hobbies    : Reverse Engineering, Kernel Hacking, IoT Hardware Security
 
 ### % GitHub Metrics & Activity
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J-525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J-525&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
 
 <br/>
 
